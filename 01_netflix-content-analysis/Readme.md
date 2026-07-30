@@ -116,4 +116,4 @@ This section will be updated after completing the analysis.
 
 ## Author
 
-**Sakshit Jangam**
+**Sakshit Yerriswamy Jangam**
