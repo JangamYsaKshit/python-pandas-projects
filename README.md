@@ -39,4 +39,4 @@ Each project includes:
 
 ## Purpose
 
-The primary objective of this repository is to strengthen my data analysis skills through practical projects while building a professional portfolio that reflects my learning journey.
+The primary objective of this repository is to strengthen my data analysis skills through practical projects while building a professional portfolio that reflects my learning journey..
