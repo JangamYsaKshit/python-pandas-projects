@@ -6,7 +6,7 @@ An exploratory data analysis project using **Python** and **Pandas** to analyze 
 
 ## Project Overview
 
-Netflix offers thousands of movies and TV shows across different countries, genres, and release years. This project explores the Netflix catalog using Pandas to understand content distribution, identify trends, and practice real-world data analysis techniques.
+Netflix offers thousands of movies and TV shows across different countries, genres, and release years. This project explores the Netflix catalog using Pandas to understand content distribution, identify trends, and practice real-world data analysis techniques..
 
 ---
 
