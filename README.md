@@ -4,7 +4,7 @@ A collection of data analysis projects built using **Python** and **Pandas**. Th
 
 ## About
 
-This repository serves as my learning portfolio as I develop practical data analysis skills through project-based learning. Each project demonstrates the application of Pandas to solve data-related problems and extract meaningful insights..
+This repository serves as my learning portfolio as I develop practical data analysis skills through project-based learning. Each project demonstrates the application of Pandas to solve data-related problems and extract meaningful insights....
 
 ## Repository Structure
 
