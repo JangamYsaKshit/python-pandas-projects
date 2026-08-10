@@ -1,6 +1,6 @@
 # Netflix Analysis
 
-An exploratory data analysis project using **Python** and **Pandas** to analyze the Netflix content catalog. This project focuses on cleaning, exploring, and analyzing Netflix movies and TV shows to uncover meaningful insights from the dataset.
+An exploratory data analysis project using **Python** and **Pandas** to analyze the Netflix content catalog. This project focuses on cleaning, exploring, and analyzing Netflix movies and TV shows to uncover meaningful insights from the dataset...
 
 ---
 
