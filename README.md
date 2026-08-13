@@ -24,7 +24,7 @@ Each project includes:
 - Exploratory data analysis
 - Key findings and insights
 
-## Skills Demonstrated
+## SDemonstrated
 
 - Data Import and Export
 - Data Cleaning
