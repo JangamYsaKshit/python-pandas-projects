@@ -1,4 +1,4 @@
-# Python Pandas Projects
+# Python Pandas Project
 
 A collection of data analysis projects built using **Python** and **Pandas**. This repository showcases my hands-on experience working with real-world datasets, focusing on data cleaning, transformation, exploration, and analysis.
 
